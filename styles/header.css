@@ -20,6 +20,7 @@ nav{
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.8;
     cursor: pointer;
+    background-color: #fff;
 }
 
 /* Banner Styles */
