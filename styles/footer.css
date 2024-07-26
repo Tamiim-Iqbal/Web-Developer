@@ -1,11 +1,18 @@
 .footer-section-container{
     background: rgba(13, 19, 33, 0.02);
+    margin: 0 auto;
     margin-top: 70px;
-    padding: 22px 150px 22px 150px;
+    border-radius: 0 0 16px 16px;
+}
+.footer-elements{
+    max-width: 80%;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-radius: 0 0 16px 16px;
+}
+.footer-text{
+    max-width: 80%;
 }
 .footer-title{
     font-size: 25px;

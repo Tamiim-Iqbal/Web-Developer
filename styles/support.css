@@ -1,6 +1,6 @@
 .support-section-container{
-    max-width: 73%;
-    height: 350px;
+    max-width: 80%;
+    height: 450px;
     margin: 0 auto;
     margin-top: 50px;
     border-radius: 16px;
@@ -9,13 +9,12 @@
     background-blend-mode: overlay;
     background-position: center;
     background-size: cover;
-    padding: 70px;
 }
-
 .support-text{
     text-align: center;
-    width: 70%;
+    width: 65%;
     margin: 0 auto;
+    padding: 70px;
 }
 .support-title{
     font-size: 32px;
@@ -27,16 +26,15 @@
     font-weight: 400;
     color: rgb(255, 255, 255);
     opacity: 0.8;
-    margin-bottom: 80px;
 }
 .support-input
 {
     text-align: center;
-    width: 80%;
+    width: 65%;
     margin: 0 auto;
+    
 }
 .support-input-text{
-    box-sizing: border-box;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 8px;
     background: rgb(255, 255, 255);
@@ -57,5 +55,4 @@
     width: 15%;
     color: rgb(13, 19, 33);
     cursor: pointer;
-    
 }
